@@ -1,17 +1,29 @@
 
-# Contributing
+# NET MAUI SAMPLE ***NOTES*** APP
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+- THIS CODE IS PART OF LEARNIG ENVIRONMENT. NO WARRANTY, OR GARRANTEE, OF ANY KIND IS MADE OR IMPLIED. 
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+- The following code is modified from the original sample applicatio availanle on the Microsoft Learning portal.
+- [Microsoft Leaning Tutorial](https://learn.microsoft.com/en-us/training/modules/create-user-interface-xaml/)
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+## Multi-Platform Mobile Application Development
+
+- *Eventually* this repo will feature:
+    - A fully developed notes app for Apple, Android, Windows.
+    - In time, other mobile platforms will be added.
+    - GUI Laytout using XAML
+    - C# app logic and event-handling 
+    - When needed platform specific code for layout access device services.
+  
+
+- No Verbose commenting and environment scaffolding
+    - Very little code comments. 
+        - For most developers, this code will be self-explanatory.
+    - No exhaustive replication on SDK or of development environment. 
+        - This repo will only feature xaml and C# code I modified and adapted.
+    - The SDK and additonal enviroment provided by NET MAUI will be listed in a .gitignore file, so it won't be replicated. 
+    - For how-to on set-up for NET MAUI development environment, a good place to start is at the follwoing link.
+        - [NET Multi-platform App UI (.NET MAUI) Community Toolkit documentation ](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/)
 
 # Legal Notices
 
