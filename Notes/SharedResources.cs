@@ -3,7 +3,7 @@ namespace Notes
 {
     static class SharedResources
     {
-        public static readonly Color FontColor = Color.FromRgb(255, 255, 255);
+        public static readonly Color FontColor = Color.FromRgb(0,0,0);
 
         public static readonly Color BackgroundColor = Color.FromRgb(27, 112, 182);
     }
