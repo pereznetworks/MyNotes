@@ -9,7 +9,7 @@
 ## Multi-Platform Mobile Application Development
 
 - *Eventually* this repo will feature:
-    - A fully developed notes app for Apple, Android, Windows.
+    - Fully developed apps for Apple, Android, Windows.
     - In time, other mobile platforms will be added.
     - GUI Laytout using XAML
     - C# app logic and event-handling 
