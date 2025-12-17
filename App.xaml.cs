@@ -1,4 +1,4 @@
-﻿namespace Notes;
+﻿namespace MyNotes;
 
 public partial class App : Application
 {

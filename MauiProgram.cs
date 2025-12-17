@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Logging;
 using CommunityToolkit.Maui;
 
-namespace Notes;
+namespace MyNotes;
 
 public static class MauiProgram
 {

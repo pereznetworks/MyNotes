@@ -1,5 +1,5 @@
 ﻿
-namespace Notes
+namespace MyNotes
 {
     static class SharedResources
     {
