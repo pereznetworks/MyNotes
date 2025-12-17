@@ -9,12 +9,7 @@
 ## Multi-Platform Mobile Application Development
 
 - *Eventually* this repo will feature:
-    - Fully developed apps for Apple, Android, Windows.
-    - In time, other mobile platforms will be added.
-    - GUI Laytout using XAML
-    - C# app logic and event-handling 
-    - When needed platform specific code for layout access device services.
-  
+    - Fully developed Notes apps 
 
 - A good place to start is at the follwoing link.
     - [NET Multi-platform App UI (.NET MAUI) Community Toolkit documentation ](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/)
