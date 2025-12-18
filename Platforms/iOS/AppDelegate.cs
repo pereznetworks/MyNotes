@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace Notes;
+namespace MyNotes;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate
