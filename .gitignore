@@ -1,5 +1,7 @@
 ﻿################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+# if git continues to track some changes, after path or folder in gitignore ...
+# git rm --cache <path/to/file/filename 
 ################################################################################
 
 *.flat
