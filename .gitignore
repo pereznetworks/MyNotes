@@ -1,7 +1,7 @@
 ﻿################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
-
+.DS_Store
 /.vs
 /.vscode/extensions.json
 /.vscode/extensions.json
@@ -182,6 +182,8 @@
 /Notes/obj/Debug/net9.0-windows10.0.19041.0/win10-x64/Notes.csproj.BuildWithSkipAnalyzers
 /Notes/obj/Debug/net9.0-windows10.0.19041.0/win10-x64/_XamarinBuildIsIncremental
 *.props
+/Notes/bin
+/Notes/bin/DS_Store
 /Notes/obj
 /Notes/obj
 /Notes/obj/Debug/net9.0-android
