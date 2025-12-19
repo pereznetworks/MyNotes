@@ -201,4 +201,5 @@ Notes/obj/Debug/net9.0-android/Notes.assets.cache
 /Notes/obj
 Notes/Platforms/.DS_Store
 /Notes/bin
+/Notes/bin/*
 .DS_Store
