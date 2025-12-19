@@ -184,6 +184,7 @@
 *.props
 /MyNotes/bin
 /MyNotes/bin/Debug
+/MyNotes/bin/Debug/*.*
 /MyNotes/bin/.DS_Store
 /MyNotes/obj
 /MyNotes/obj/Debug/net9.0-android
