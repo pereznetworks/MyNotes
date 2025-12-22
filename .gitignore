@@ -25,3 +25,16 @@ bin/Debug/net10.0-maccatalyst
 bin/Debug/net10.0-android/com.companyname.MyNotes-Signed.apk
 bin/Debug/net10.0-android/com.companyname.MyNotes-Signed.apk.idsig
 bin/Debug/net10.0-android/com.companyname.MyNotes.apk
+*.dll
+/bin
+/bin/Debug
+/bin/Debug/net10.0-android
+/bin/Debug/net10.0-android
+*.dll
+/bin/Debug/net10.0-android
+/bin/Debug/net10.0-maccatalyst/maccatalyst-arm64
+/bin/Debug/net10.0-maccatalyst
+/bin/Debug
+/bin/Debug/net10.0-ios/iossimulator-arm64
+/bin/Debug/net10.0-ios
+/bin/Debug
