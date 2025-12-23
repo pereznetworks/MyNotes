@@ -1,7 +1,7 @@
 
 # NET MAUI SAMPLE ***NOTES*** APP
 
-- THIS CODE IS PART OF LEARNING ENVIRONMENT. NO GAURANTEE, OF ANY KIND IS MADE OR IMPLIED. 
+- THIS REPO IS PART OF LEARNING ENVIRONMENT. NO GAURANTEE, OF ANY KIND IS MADE OR IMPLIED. 
 
 - The following code is modified from the original sample availanle on the Microsoft Learning portal.
 - [Microsoft Leaning Tutorial](https://learn.microsoft.com/en-us/training/modules/create-user-interface-xaml/)
