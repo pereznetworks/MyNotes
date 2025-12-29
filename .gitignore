@@ -38,3 +38,4 @@ bin/Debug/net10.0-android/com.companyname.MyNotes.apk
 /bin/Debug/net10.0-ios/iossimulator-arm64
 /bin/Debug/net10.0-ios
 /bin/Debug
+MyNotes.csproj.user
