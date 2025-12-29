@@ -1,10 +1,10 @@
-﻿// TODO: implement managing multiple notes
+﻿// TODO: implement managing multiple MyNotes
 
-namespace Notes;
+namespace MyNotes;
 
 public partial class MainPage : ContentPage
 {
-    string _fileName = Path.Combine(FileSystem.AppDataDirectory, "notes.txt");
+    string _fileName = Path.Combine(FileSystem.AppDataDirectory, "MyNotes.txt");
 
     public MainPage()
     {

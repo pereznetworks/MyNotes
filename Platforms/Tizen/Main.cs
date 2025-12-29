@@ -2,7 +2,7 @@ using System;
 using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 
-namespace Notes;
+namespace MyNotes;
 
 class Program : MauiApplication
 {
