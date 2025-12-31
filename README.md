@@ -9,7 +9,7 @@ An *Extremely Simple* implentation of .NET MAUI Sample "Create an .NET MAUI App"
 
 - [For Community Toolkit documentation ](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/)
 
-## Multi-Platform Mobile Application Development
+## Release Plans
 
 - *Eventually* this repo will feature a fully developed Notes apps 
 
