@@ -1,18 +1,17 @@
 
 # NET MAUI SAMPLE ***NOTES*** APP
 
+An *Extremely Simple* implentation of .NET MAUI Sample "Create an .NET MAUI App"
+
 - THIS REPO IS PART OF LEARNING ENVIRONMENT. NO GAURANTEE, OF ANY KIND IS MADE OR IMPLIED. 
 
-- The following code is modified from the original sample availanle on the Microsoft Learning portal.
 - [Microsoft Leaning Tutorial](https://learn.microsoft.com/en-us/training/modules/create-user-interface-xaml/)
+
+- [For Community Toolkit documentation ](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/)
 
 ## Multi-Platform Mobile Application Development
 
-- *Eventually* this repo will feature:
-    - Fully developed Notes apps 
-
-- A good place to start is at the follwoing link.
-    - [NET Multi-platform App UI (.NET MAUI) Community Toolkit documentation ](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/)
+- *Eventually* this repo will feature a fully developed Notes apps 
 
 # Legal Notices
 

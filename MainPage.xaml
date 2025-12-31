@@ -5,29 +5,25 @@
          xmlns:MyNotes="clr-namespace:MyNotes"
          x:Class="MyNotes.MainPage">
 
-    <VerticalStackLayout Padding="30,60,30,30">
-        <Label Text="MyNotes"
-            HorizontalOptions="Center"
-            FontAttributes="Bold" 
-            TextColor="{x:Static Member=MyNotes:SharedResources.FontColor}" />
+    <VerticalStackLayout Padding="10,10,10,10">
 
         <Editor x:Name="editor"
                 Placeholder="Enter your note"
-                HeightRequest="{OnPlatform 500, Android=150, iOS=500}"
-                TextColor="{x:Static Member=MyNotes:SharedResources.FontColor}"/>
+                HeightRequest="{OnPlatform 500, Android=700, iOS=600}"
+                TextColor="{x:Static Member=MyNotes:SharedResources.FontColor}" />
 
         <Grid Grid.Row="2" ColumnDefinitions="Auto,30,Auto">
 
             <Button Grid.Column="0"
                     Text="Save" 
-                    WidthRequest="100"
+                    WidthRequest="60"
                     TextColor="{x:Static Member=MyNotes:SharedResources.FontColor}"
                     BackgroundColor="{x:Static Member=MyNotes:SharedResources.BackgroundColor}"
                     Clicked="OnSaveButtonClicked" />
 
             <Button Grid.Column="2"
-                    Text="Delete" 
-                    WidthRequest="100"
+                    Text="Del" 
+                    WidthRequest="60"
                     TextColor="{x:Static Member=MyNotes:SharedResources.FontColor}"
                     BackgroundColor="{x:Static Member=MyNotes:SharedResources.BackgroundColor}"
                     Clicked="OnDeleteButtonClicked" />
