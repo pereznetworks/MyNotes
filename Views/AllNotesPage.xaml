@@ -3,6 +3,7 @@
              xmlns:viewModels="clr-namespace:MyNotes.ViewModels"
              x:Class="MyNotes.Views.AllNotesPage"
              Title="Your Notes"
+             NavigatedTo="ContentPage_NavigatedTo"
              x:DataType="viewModels:NotesViewModel">
     <ContentPage.BindingContext>
         <viewModels:NotesViewModel />
