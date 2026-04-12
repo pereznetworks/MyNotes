@@ -41,6 +41,12 @@ An *Extremely Simple* implentation of .NET MAUI Sample "Create an .NET MAUI App"
 - I have not followed the discussion on this, but seems there is a lot
     - Basically, don't try go beyond the basics of AppShell, unless you really know what you're doing 
 
+- Uaing AppShell's Navigate Up button 
+    - comes with one more little technical snag 
+    - because it is only provided at runtime
+    - there is no access to the styling for it
+ - so persoanlly, I would be looking to create and style my own
+
 # Legal Notices
 
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
