@@ -13,7 +13,7 @@ An *Extremely Simple* implentation of .NET MAUI Sample "Create an .NET MAUI App"
 
 - Create App and Implement MVVM complete 
 
-- Styling changes, looks funky on iOS, MAC and Windows, but thew demo works =)
+- Styling changes, looks funky on iOS, MAC and Windows, but the demo works =)
 
 - Android theme conflict with Navigate Up button not being visible resolved
     - confusion may start with the folliowing 2 basic issues 
