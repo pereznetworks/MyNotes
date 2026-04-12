@@ -29,9 +29,10 @@ An *Extremely Simple* implentation of .NET MAUI Sample "Create an .NET MAUI App"
     - 1st, Custom navigate up button ?
         - I tried creating my own Navigate Up button, 
         - it's not actually that hard, you still have to bind it to AppShell, to get placed in the desired location
-    - 2nd, is there a way to style AppShell's Navigate button directly
-        - after making my own, I still had AppShell's Navigate Up button, 
-        - whether I wanted it or not
+    - 2nd, simply accept AppShell's Navigate Up button?
+        - Android & iOS: appears as part of the app
+        - Windows and MacCatalyst: appears outside of app, as part OS controls 
+        - write platform specific code ?
     - 3rd, what's is best practice, in this case?
 
 # Legal Notices
