@@ -25,15 +25,14 @@ An *Extremely Simple* implentation of .NET MAUI Sample "Create an .NET MAUI App"
         - Playing with the styling of Shell items, reveales what color is applied to the Navigate Up button 
         - since Shell.Background Color was Primary (Blue), needed to change foreground color, used for Navigate up from Primary (Blue) to someother color
 
-- Questions, after working with this code for a bit,
+- Questions, after working with this code for a bit, what's is best practice, in this case?
     - 1st, Custom navigate up button ?
         - I tried creating my own Navigate Up button, 
         - it's not actually that hard, you still have to bind it to AppShell, to get placed in the desired location
     - 2nd, simply accept AppShell's Navigate Up button?
         - Android & iOS: appears as part of the app
         - Windows and MacCatalyst: appears outside of app, as part OS controls 
-        - write platform specific code ?
-    - 3rd, what's is best practice, in this case?
+
 
 # Legal Notices
 
