@@ -11,7 +11,7 @@ An *Extremely Simple* implentation of .NET MAUI Sample "Create an .NET MAUI App"
 
 ## Release Notes
 
-- Create App and Implement MVVM complete 
+- Create App Tutorial and Implementation of MVVM complete 
 
 - Styling changes, looks funky on iOS, MAC and Windows, but the demo works =)
 
