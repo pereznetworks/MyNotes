@@ -30,8 +30,8 @@ An *Extremely Simple* implentation of .NET MAUI Sample "Create an .NET MAUI App"
         - I tried creating my own Navigate Up button, 
         - it's not actually that hard, you still have to bind it to AppShell, to get placed in the desired location
     - 2nd, simply accept AppShell's Navigate Up button?
-        - Android & iOS: appears as part of the app
-        - Windows and MacCatalyst: appears outside of app, as part OS controls 
+        - Android, Mac & iOS : appears as part of the app
+        - Windows: appears outside of app, as part OS controls 
 
 
 # Legal Notices
