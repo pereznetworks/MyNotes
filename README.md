@@ -15,7 +15,7 @@ An *Extremely Simple* implentation of .NET MAUI Sample "Create an .NET MAUI App"
 
 - Styling changes, looks funky on iOS, MAC and Windows, but the demo works =)
 
-- Android theme conflict with Navigate Up button not being visible resolved
+- Reaolved Android theme conflict with Navigate Up button not being visible
     - confusion may start with the folliowing 2 basic issues 
         - NotePage.xaml provides custom styling for the Add note button in ContentPage.Toolbar 
         - the Navigate Up button is not actually on a Toolbar, not on the Navigation or Tab pages
