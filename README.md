@@ -29,7 +29,7 @@ An *Extremely Simple* implentation of .NET MAUI Sample "Create an .NET MAUI App"
             - it's not actually that hard
              - you still have to bind it to AppShell, to get placed in the desired location
     - However, that feat accomplished, you still get AppShell's Navigate Up button, 
-        - whether you like it or now
+        - whether you like it or not
         - unless you find a way to disable that
         - this is where things get tricky 
     - The code for the App Shell, and for it's Navigate Up, is not provided directly anywhere
