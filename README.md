@@ -9,9 +9,37 @@ An *Extremely Simple* implentation of .NET MAUI Sample "Create an .NET MAUI App"
 
 - [For Community Toolkit documentation ](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/)
 
-## Release Plans
+## Release Notes
 
-- *Eventually* this repo will feature a fully developed Notes apps 
+- Create App and Implement MVVM complete 
+
+- Styling changes, looks funky on iOS, MAC and Windows, but thew demo works =)
+
+- Android theme conflict with Navigate Up button not being visible resolved
+    - confusion may start with the folliowing 2 basic issues 
+        - NotePage.xaml provides custom styling for the Add note button in ContentPage.Toolbar 
+        - the Navigate Up button is not actually on a Toolbar, not on the Navigation or Tab pages
+    - fix 
+        - Navigate Up is provided only at runtime as part of AppShell
+        - using Shell section of Resources/Styles.xaml
+        - Playing with the styling of Shell items, reveales what color is applied to the Navigate Up button 
+        - since Shell.Background Color was Primary (Blue), needed to change foreground color, used for Navigate up from Primary (Blue) to someother color
+    - Custom navigate up button ?
+        - I tried creating my own Navigate Up button, 
+            - it's not actually that hard
+             - you still have to bind it to AppShell, to get placed in the desired location
+    - However, that feat accomplished, you still get AppShell's Navigate Up button, 
+        - whether you like it or now
+        - unless you find a way to disable that
+        - this is where things get tricky 
+    - The code for the App Shell, and for it's Navigate Up, is not provided directly anywhere
+        - neither in the "Create App" Tutorial 
+        - nor in any Net Maui docs
+        - Is it on Net Maui Github repo that contains code for it !? =)
+            - I'm too lazy to go check =)
+
+- I have not followed the discussion on this, but seems there is a lot
+    - Basically, don't try go beyond the basics of AppShell, unless you really know what you're doing 
 
 # Legal Notices
 
