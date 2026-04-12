@@ -9,9 +9,9 @@
         <viewModels:NotesViewModel />
     </ContentPage.BindingContext>
 
-    <!-- Add an item to the toolbar -->
+    <!-- Placing an "Add a note" icon on the Toolbar  -->
     <ContentPage.ToolbarItems>
-        <ToolbarItem Text="Add" Command="{Binding NewCommand}" IconImageSource="{FontImageSource Glyph='+', Color=Black, Size=22}" />
+        <ToolbarItem Text="Add" Command="{Binding NewCommand}" IconImageSource="{FontImageSource Glyph='+', Color=White, Size=24}" />
     </ContentPage.ToolbarItems>
 
     <!-- Display notes in a list -->
